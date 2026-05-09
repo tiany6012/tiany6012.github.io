@@ -41,20 +41,4 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-@media screen and (min-width: 1280px) {
-  .sidebar {
-    width: 315px;
-    max-width: 315px;
-    transform: translate3d(-55px, 0, 0);
-  }
 
-  .author__urls li {
-    white-space: nowrap;
-  }
-}
-.author__avatar img {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-}
