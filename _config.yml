@@ -23,7 +23,7 @@ repository               : "tiany6012/tiany6012.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "高天宇 Tianyu Gao 🏄🏻‍♀"
   pronouns         : # example: "he/him"  
   bio              : "His research interests include stable isotope geochemistry, with a focus on using stable nitrogen isotopes to trace atmospheric ammonia sources."
